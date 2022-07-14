@@ -31,6 +31,9 @@ import bio.link.repository.PluginsRepository;
 @Service
 public class PluginsServiceImpl implements PluginsService{
 
+
+//    dong nay la de tao nhanh moi
+
     @Autowired
     private PluginsRepository pluginsRepository;
 
